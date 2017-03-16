@@ -1,0 +1,23 @@
+{
+  "name": "happy-blog",
+  "description": "一个博客",
+  "main": "app.js",
+  "authors": [
+    "HMM"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/vender",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "underscore": "^1.8.3"
+  }
+}
