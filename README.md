@@ -1,3 +1,3 @@
 # happy-blog
 #a blog 
-##function: regiter,login,logout,publish artcles,uploadImage,uploadAvatar
+##function: register,login,logout,publish articles,uploadImage,uploadAvatar
